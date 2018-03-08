@@ -63,6 +63,7 @@ console.log('make',carcfg.make);
 console.log('model',carcfg.model);
 console.log('protocol',carcfg.protocol);
 console.log('ecu',carcfg.ecu);
+console.log("start servr on localhost:35000");
 
 
 
